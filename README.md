@@ -1,1 +1,1 @@
-# a Hello World to know threejs
+# a Hello World to know three.js
