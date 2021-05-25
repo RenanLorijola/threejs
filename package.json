@@ -1,0 +1,29 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanLorijola/threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanLorijola/threejs/issues"
+  },
+  "homepage": "https://github.com/RenanLorijola/threejs#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
